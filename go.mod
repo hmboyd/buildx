@@ -34,7 +34,7 @@ require (
 	github.com/moby/buildkit v0.9.1-0.20211215010209-539be1708964
 	github.com/morikuni/aec v1.0.0
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/opencontainers/image-spec v1.0.2-0.20210819154149-5ad6f50d6283
+	github.com/opencontainers/image-spec v1.0.2
 	github.com/pelletier/go-toml v1.9.4
 	github.com/pkg/errors v0.9.1
 	github.com/serialx/hashring v0.0.0-20190422032157-8b2912629002
